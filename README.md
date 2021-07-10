@@ -1,2 +1,6 @@
-# text-to-speech
-Ini adalah source code javascript untuk membuat file mp3 dari teks yang diinputkan oleh user.
+# Demo
+![Demo](https://github.com/IhsanDevs/text-to-speech/raw/main/assets/img/icon/preview.png)
+
+Ini adalah source code HTML JavaScript untuk membuat text-to-speech. Jika ingin menggunakan API nya, silahkan [join channel telegram](https://t.me/rest_api) saya untuk dokumentasi lengkapnya. Lihat pada pesan yang di pin.
+
+Cara menggunakannya pun mudah, tinggal upload di web hosting kesayangan kalian atau bisa juga dijalankan di localhost.
