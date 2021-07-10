@@ -42,7 +42,7 @@
                                     <li class="nav-item"><a class="nav-link" href="https://texttovoices.herokuapp.com/lang">List Languange</a></li>
                                     <li class="nav-item"><a class="nav-link" href="https://texttovoices.herokuapp.com/api">API</a></li>
                                     <li class="nav-item"><a class="nav-link" href="https://t.me/IhsanDevs" target="_blank">Contact Us</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="https://t.me/RestApi">Telegram Channel</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://t.me/rest_api">Telegram Channel</a></li>
                                     <li class="nav-item"><a class="nav-link" href="https://github.com/IhsanDevs" target="_blank">My Github</a></li>
                                     <li class="nav-item"><a class="nav-link" href="https://instagram.com/ihsan_devs">My Instagram</a></li>
                                     <li class="nav-item"><a class="nav-link" href="javascript:void()" id="about">About</a></li>

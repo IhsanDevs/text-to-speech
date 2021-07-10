@@ -3,7 +3,7 @@ audio = document.getElementById("audio");
 document.getElementById("about").onclick = function () {
       Swal.fire({
         position: 'top-end',
-        text: 'Convert your text into audio files without signing up for an account and without paying.',
+        text: 'Convert your text into audio files without signing up for an account and without paying. I have provided this web source code for free on my github repository.',
         showConfirmButton: false,
       });
       return false;
